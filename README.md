@@ -1,7 +1,7 @@
 ![Minecraft logo](https://raw.githubusercontent.com/GloamingCN/Venus/master/Minecraft_logo.png)
 # 嗨！这里是启明星辰（Venus Star）多元服务器构建页面。
 
-### **此分支是启明星辰服务器PTR版本，与正式服务器使用保持同一版本。**
+### **此分支是启明星辰服务器PTR版本，基于Release版本进行开发的测试版。**
 
 ### Have a good day！
 ------------
